@@ -5,7 +5,7 @@ Techfest 2012 IIT Bombay
 
 INexus International Competitions - No Man's Land
 
-Problem : to Arenas : 2 Robots
+Problem : 2 Arenas : 2 Robots
 
 Arena 1: Grid : 
 
