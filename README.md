@@ -18,3 +18,5 @@ an 8X8 maze which needs to be solved by the robot and place the boxes transfered
 
 2.
 Major Project
+
+Designed a system processing real-time data from nodes using technologies like RFID, ZIGBEE, ARDUINO
