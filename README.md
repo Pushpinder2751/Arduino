@@ -1,6 +1,7 @@
 # Arduino-Projects
 Projects Undertaken
 
+1.
 Techfest 2012 IIT Bombay 
 
 INexus International Competitions - No Man's Land
@@ -14,3 +15,6 @@ Arena.
 
 Arena 2: Maze: 
 an 8X8 maze which needs to be solved by the robot and place the boxes transfered by the grid robot to the appropriate co-ordinates in the shortest possible time. 
+
+2.
+Major Project
